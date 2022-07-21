@@ -21,7 +21,7 @@ Command:   gcc client.c BIN/*.c -W -Wall -Werror -std=c99 -o client
 
 4. Run client
 
-5. Enter a filename, which data will be send
+5. Enter a filename, which data will send
 
 6. Check "log.txt" in folder with daemon for checking log info or check "server_*filename* to see the received data from client
 
